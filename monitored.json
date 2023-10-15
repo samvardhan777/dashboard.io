@@ -1,1 +1,1 @@
-[]
+[{"model": "\"EXERCISE_CO2_VS_TEMPERATURE\".\"CARBON_EMISSIONS\".\"CO2_EMISSIONS_AND_TEMPERATURES_BY_COUNTRY\"", "time_filter": null, "metrics": "{\"group\": {\"table\": [\"row_count\", \"freshness\"]}, \"additional\": {}}", "columns": "[\"AVERAGETEMPERATURE\", \"SHAREOFGLOBALEMISSIONS\", \"TOTALEMISSIONS\", \"YEAR\"]", "anomaly_detector": "{\"name\": \"modified_z_score\", \"threshold\": 3}", "owners": "{}"}]
